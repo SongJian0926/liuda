@@ -1,0 +1,152 @@
+.right_content1{
+	width: 748px;
+}
+.search-btn{
+	width:19%;
+	height: 30px;
+	border-radius:5px;
+	border:0;
+	padding-left: 22px;
+	background: url('../images/search.png') no-repeat 46px #00b9b4;
+	cursor:pointer;  
+}
+.label-tit{
+	margin:0px 0px 0px 20px; 
+	position:relative;
+}
+.txt-tit{
+	margin:0px 40px 0px 0px; 
+}
+.li-order{
+	margin-top:5px; 
+}
+.order-list{
+	margin: 0px 0px 0px 20px;
+}
+.ul-order-list{
+	padding: 10px 0px 10px 0px;
+}
+.con1{
+	border-bottom:1px solid #d8d8d8;
+	background: #fff;
+}
+.span-a{
+	width:10%;
+	margin-left: 59%;
+	
+}
+.reply-btn{
+	width:10%;
+	text-align: right;
+	display:inline-block;
+}
+.a-font{
+	color:#00b9b4;
+	/* padding-left:10px; */
+}
+.b-font{
+	color:#999999;
+}
+.c-font{
+	color:#999999;
+	text-decoration:none;
+}
+.img-li{
+	float: left;
+	margin:0px 10px 0px 0px;
+}
+.img-comment{
+	height: 80px;
+}
+.time-sty{
+	color:#999999;
+}
+.reply-comment{
+	border: 1px solid #d8d8d8;
+	margin-bottom: 30px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.reply-comment1{
+	border-top-style:solid;
+	border-top-color:#d8d8d8;
+	border-width: 1px;
+	margin-left: 20px;
+}
+.comment-content{
+	border-top-style:solid;
+	border-top-color:#d8d8d8;
+	border-width: 1px;
+	padding:10px 20px;
+}
+
+.rely-area{
+	resize:none;
+	height:100px;
+	width: 94%;
+	border:none;
+	margin-top: 10px;
+	outline:none;
+}
+.upload-img{
+	height: 75px;
+	width: 75px;
+}
+.require-btn{
+	height:40px;
+	background-color:#eeeeee;
+	line-height: 40px;
+	padding-left:80%;  
+	
+}
+.img{
+	height: 73px;
+	width: 73px;
+}
+
+.reply-content{
+	/* height:170px; */
+	margin:10px 0px 0px 0px;
+	border-top-style:solid;
+	border-top-color:#d8d8d8;
+	border-width: 1px;
+}
+.reply-text{
+	margin:10px 20px 0px 0px;
+}
+.bottom{
+	margin-bottom: 10px;
+}
+.search_startTime{
+	width:220px;
+	padding-left:30px;
+	position:relative;
+}
+.search_endTime{
+	width:220px;
+	padding-left:30px;
+	position:relative;
+}
+.input-search{
+	height:25px;
+	width:105px;
+	border: 1px solid #eaeaea;
+	padding:0px 5px;
+	
+}
+.nogoods{
+    padding: 180px;
+    text-align: center;
+    background-color:#ffffff;
+}
+.a-del{
+	float:right;
+	/*margin-left:400px;  */
+	margin-right:20px;
+}
+.a-edit{
+	/* float:right; */
+	/*margin-left:400px;  */
+	/* margin-right:20px; */
+	/* margin-right:20px; */
+}

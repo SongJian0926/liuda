@@ -1,0 +1,85 @@
+.cancel_no{
+	height:160px;
+	line-height: 160px;
+	padding: 0 95px;
+	border-bottom: 1px solid #d8d8d8;
+}
+.right_content .search_cancel{
+	height:25px;
+	width:245px;
+	border-color:#00b7b2;
+	border:1px solid #00b7b2;
+	margin: 0 10px;
+}
+.right_content .cancelbtn{
+	height:30px;
+	width:55px;
+	border-radius: 3px;
+	background-color: #00b7b2;
+    cursor:pointer;  
+    color: #fff;
+    border:0;
+    font-size: 15px;
+}  
+.cancel_result{
+	margin-top: 25px;
+	margin-left: 25px;
+	color:#00b7b2;
+}
+.cancel_sucess{
+	height:60px;
+	line-height: 50px;
+	margin:0px 55px;
+	text-align:center;
+	color: green;
+	font-size: 15px;
+}
+.cancel_detail{
+	height:28px;
+	padding-left: 120px;
+}
+.rl{
+	padding-left:190px;
+}
+.rt{
+	position:absolute;
+	right:172px;
+	float:right;
+}
+.mobile-sty{
+	position:absolute;
+	right:81px;
+	float:right;
+}
+.user-sty{
+	position:absolute;
+	left: 440px;
+    float: left;
+}
+.num{
+	padding-left:15px;
+}
+.cancel_error{
+	height:100px;
+	line-height: 100px;
+	color:#c42323;
+	font-size: 15px;
+	width: 315px;
+	margin: 0 auto;
+	text-align:center;
+}
+.error_img{
+	width: 100px;
+    margin: 0 auto;
+}
+.warn-font{
+	color:red;
+	padding:70px 20px 0px 0px;
+	
+}
+.cancel-content{
+	margin:10px 70px;
+}
+.info{
+	margin:5px auto;
+}

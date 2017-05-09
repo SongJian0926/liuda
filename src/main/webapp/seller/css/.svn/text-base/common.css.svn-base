@@ -1,0 +1,348 @@
+html{
+	margin: 0;
+	padding: 0;
+	font-family: "Microsoft YaHei";
+	font-size: 14px;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: #eee;
+}
+ul{
+	list-style: none;
+}
+input[type="text"],input[type="button"],input[type="password"]{
+	height: 30px;
+	/* border-radius: 4px;
+	-webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px; */
+    border: 1px solid #d8d8d8;
+}
+input[type="button"]{
+	border: none;
+}
+.fr{
+	float: right !important;
+}
+.fl{
+	float: left !important;
+}
+/** 头部导航栏样式 */
+.header_nav{
+	height: 70px;
+	background: #3d4556;
+}
+.header_content{
+	width: 950px;
+	margin: auto;
+	overflow: hidden;
+}
+.nav_icon{
+	padding: 8px 30px;
+	color: #fff;
+	font-size: 17px;
+	background: url('../images/icon.png') no-repeat 30px center;
+	height: 54px;
+}
+.nav_icon span{
+	padding-left: 65px;
+	margin-top: 15px;
+	display: block;
+}
+.nav_menu{
+	
+}
+.nav_menu ul{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	height: 55px;
+	margin-top: 15px;
+	line-height: 55px;
+}
+.active,.nav_menu ul .preventMenu:hover{
+	background: #fff;
+	color: #00b9b4 !important;
+	border-top-right-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-top-right-radius: 10px;
+	-ms-border-top-right-radius: 10px;
+	-o-border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	-webkit-border-top-left-radius: 10px;
+	-moz-border-top-left-radius: 10px;
+	-ms-border-top-left-radius: 10px;
+	-o-border-top-left-radius: 10px;
+}
+.nav_menu ul .preventMenu{
+	text-decoration: none;
+	font-size: 17px;
+	color: #fff;
+	display: inline-block;
+	width: 120px;
+	cursor: pointer;
+}
+.nav_login_info{
+	padding-right: 10px;
+}
+.nav_login_info img{
+	padding-top: 35px;
+	padding-left: 15px;
+}
+.nav_login_info ul{
+	text-align: center;
+	margin-top: 35px;
+}
+.nav_login_info ul .info{
+	display: inline-block;
+	color: #fff;
+}
+.nav_login_info .logout{
+	padding: 0 10px;
+	border-left: 1px solid #fff;
+}
+.nav_login_info .userName{
+	padding: 0 5px;
+}
+/** 头部导航栏样式 end */
+
+/** 内容宽度 */
+.content{
+	width: 950px;
+	margin: auto;
+}
+/** 内容宽度 end */
+
+/** 左边导航样式 */
+.content .left_child_menu{
+	width: 180px;
+	background: #5e6172;
+}
+.content .left_child_menu ul{
+	margin: 0;
+	padding: 0;
+}
+.content .left_child_menu .active_nav{
+	background: url('../images/left_arrow.png') no-repeat right center #00b9b4;
+}
+.content .left_child_menu a{
+	text-decoration: none;
+	color: #fff;
+	height: 70px;
+	text-align: center;
+	display: block;
+	line-height: 70px;
+	cursor: pointer;
+}
+.content .right_content{
+	width: 750px;
+	background: #fff;
+}
+/** 左边导航样式 end */
+/** 单(多)选按钮样式  */
+input[type="radio"] + span,input[type="checkbox"] + span{
+	position: relative;
+}
+input[type="radio"] + span:before,input[type="checkbox"] + span:before{
+	content: "";
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-left: -20px;
+	background: #fff;
+	border-radius: 0px;
+	margin-top: -3px;
+	border: 1px solid #c8c8c8;
+}
+input[type="radio"] + span:before{
+	border-radius: 50%;
+}
+input[type="radio"]:checked + span:after{
+	content: "";
+	width: 9px;
+	height: 9px;
+	position: absolute;
+	top: 5px;
+	left: -16px;
+	background-color: #00b7b2;
+	border-radius: 50%;
+	display: block;
+}
+input[type="checkbox"]:checked + span:before{
+	background: #fff url("../images/true.png") no-repeat center center;
+}
+/** 单(多)选按钮样式 end */
+/** 上传按钮样式 */
+.upload_div{
+	width:73px;
+	overflow:hidden;
+	height:73px;
+	border:none;
+	border-radius:4px;
+	text-align:center;
+	position:relative;
+	line-height:100px;
+}
+.upload_file{
+	position:absolute;
+	top:0;
+	right:0;
+	opacity:0;
+	height:100%;
+	cursor:pointer;
+	width:73px;
+}
+/** 上传按钮样式 end */
+/** 分页样式 */
+.page_big_div{
+	padding: 30px 15px;
+}
+.pagination{
+	display: block;
+	padding-left: 0;
+	margin: auto;
+	text-align: center;
+}
+.pagination li{
+	display: inline;
+	margin-right: 5px;
+}
+.pagination li a{
+	position: relative;
+	padding: 4px 10px;
+	line-height: 1.4;
+	text-decoration: none;
+	color: #00b7b2;
+}
+.pagination .page_num_input{
+	width: 50px;
+	margin: 0 10px;
+	border: 1px solid #d8d8d8;
+	text-align: center;
+}
+.pagination input[type="button"]{
+	border: 1px solid #00b7b2;
+	background: #fff;
+	padding: 0 10px;
+	color: #00b7b2;
+	cursor: pointer;
+}
+.pagination .next,.pagination .previous{
+	border: 1px solid #00b7b2;
+}
+.pagination .disabled{
+	border: 1px solid #d8d8d8;
+	color: #d8d8d8;
+	cursor: no-drop;
+	/* pointer-events: none; */
+}
+.pagination .disabled_noboder{
+	color: #d8d8d8;
+	cursor: no-drop;
+	/* pointer-events: none; */
+}
+.pagination li .active_page{
+	color: #d8d8d8 !important;
+	cursor: no-drop;
+	/* pointer-events: none; */
+}
+/** 分页样式结束 */
+/** bootstrap中样式，解决日历插件跑偏问题 */
+.dropdown {
+  position: relative;
+}
+.dropdown-toggle:focus {
+  outline: 0;
+}
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 160px;
+  padding: 5px 0;
+  margin: 2px 0 0;
+  font-size: 14px;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, .15);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+.dropdown-menu.pull-right {
+  right: 0;
+  left: auto;
+}
+.dropdown-menu .divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+.dropdown-menu > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.42857143;
+  color: #333;
+  white-space: nowrap;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #262626;
+  text-decoration: none;
+  background-color: #f5f5f5;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #428bca;
+  outline: 0;
+}
+.dropdown-menu > .disabled > a,
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  color: #777;
+}
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+/** bootstrap中样式，解决日历插件跑偏问题 */
+.left-top-box{
+	position: absolute;
+	top: -2px;
+	left: -2px;
+}
+.datetime_clear{
+	background:url('../../image/del.png') no-repeat center center;
+	width:30px;
+	height:30px;
+	position:absolute;
+	right: 60px;
+	top: 1px;
+	cursor:pointer;
+}
+/** 不能点击样式  */
+.disabled_btn{
+	pointer-events: none;
+}

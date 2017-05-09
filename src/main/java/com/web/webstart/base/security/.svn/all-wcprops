@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security
+END
+XaUserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaUserDetails.java
+END
+XaResourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaResourceService.java
+END
+XaResourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaResourceServiceImpl.java
+END
+XaUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaUserDetailsService.java
+END
+XaFilterSecurityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaFilterSecurityInterceptor.java
+END
+XaSecurityMetadataSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaSecurityMetadataSourceService.java
+END
+XaAccessDecisionManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/security/XaAccessDecisionManagerService.java
+END

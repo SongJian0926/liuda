@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projects/!svn/ver/23917/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository
+END
+FeedBackRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/14988/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/FeedBackRepository.java
+END
+ClubEventRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ClubEventRepository.java
+END
+FansRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/19898/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/FansRepository.java
+END
+CommentRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/23759/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/CommentRepository.java
+END
+GuideTagRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuideTagRepository.java
+END
+ShopCarRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/14188/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ShopCarRepository.java
+END
+GuideRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/19699/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuideRepository.java
+END
+RoomRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/11712/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/RoomRepository.java
+END
+MatchOrderDetailRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/23917/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MatchOrderDetailRepository.java
+END
+VoteLogRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/19270/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/VoteLogRepository.java
+END
+MessageRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/projects/!svn/ver/20415/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MessageRecordRepository.java
+END
+ImagesRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ImagesRepository.java
+END
+GuessRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuessRepository.java
+END
+ShopRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/11828/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ShopRepository.java
+END
+DictRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/20415/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/DictRepository.java
+END
+RefundOrderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/23411/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/RefundOrderRepository.java
+END
+GuideAppendRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuideAppendRepository.java
+END
+ClubRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/18998/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ClubRepository.java
+END
+ReplyCommentRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/11888/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ReplyCommentRepository.java
+END
+AddressRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/10305/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/AddressRepository.java
+END
+HotelRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/11829/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/HotelRepository.java
+END
+TouristRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/11832/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/TouristRepository.java
+END
+MatchLiveRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MatchLiveRepository.java
+END
+ProvinceRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ProvinceRepository.java
+END
+ClubMemberRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/21907/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ClubMemberRepository.java
+END
+FondRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/19477/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/FondRecordRepository.java
+END
+PrizeResultRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/22045/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/PrizeResultRepository.java
+END
+AreaRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/AreaRepository.java
+END
+BannerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/14988/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/BannerRepository.java
+END
+GuessOptionRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuessOptionRepository.java
+END
+UserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/19875/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/UserRepository.java
+END
+VoteRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/21573/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/VoteRepository.java
+END
+CollectRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/19705/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/CollectRepository.java
+END
+MatchOrderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/22373/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MatchOrderRepository.java
+END
+RulesDescRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/RulesDescRepository.java
+END
+EventMsgRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/EventMsgRepository.java
+END
+MessageRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/23521/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MessageRepository.java
+END
+VersionInfoRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/VersionInfoRepository.java
+END
+CashRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/16902/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/CashRecordRepository.java
+END
+MacthRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MacthRepository.java
+END
+GuideCommentRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuideCommentRepository.java
+END
+OrderDetailRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/13727/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/OrderDetailRepository.java
+END
+VoteOptionRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/19270/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/VoteOptionRepository.java
+END
+StandardRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/16458/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/StandardRepository.java
+END
+MatchOrderTempRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/20326/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MatchOrderTempRepository.java
+END
+UserCardRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/19835/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/UserCardRepository.java
+END
+MatchCommentRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/21359/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MatchCommentRepository.java
+END
+NoticeRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/NoticeRepository.java
+END
+DictionaryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/16743/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/DictionaryRepository.java
+END
+HistoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/9795/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/HistoryRepository.java
+END
+EventReviewRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/EventReviewRepository.java
+END
+OrderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/10056/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/OrderRepository.java
+END
+BusinessInfoRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/13911/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/BusinessInfoRepository.java
+END
+GuessLogRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/22023/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/GuessLogRepository.java
+END
+CityRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/CityRepository.java
+END
+WithdrawRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/WithdrawRepository.java
+END
+AgreementRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/22493/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/AgreementRepository.java
+END
+DictItemRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/20435/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/DictItemRepository.java
+END
+MyBankRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/16899/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/MyBankRepository.java
+END
+PrizeOptionRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18584/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/PrizeOptionRepository.java
+END
+TicketsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/11712/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/TicketsRepository.java
+END
+ShopRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/10847/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/repository/ShopRecordRepository.java
+END

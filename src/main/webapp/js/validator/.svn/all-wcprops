@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/projects/!svn/ver/23683/Tongyansheji/java/liuda/src/main/webapp/js/validator
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/package.json
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/LICENSE.txt
+END
+jquery.validator.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/jquery.validator.js
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/.travis.yml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/.gitignore
+END
+jquery.validator.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/jquery.validator.css
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/README.md
+END
+niceValidator.jquery.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/webapp/js/validator/niceValidator.jquery.json
+END

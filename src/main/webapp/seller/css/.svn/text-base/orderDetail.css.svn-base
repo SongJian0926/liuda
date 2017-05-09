@@ -1,0 +1,41 @@
+.order{
+	height:60px;
+	background-color:#f5f5f5;
+}
+.order_no{
+	line-height: 60px;
+}
+.dis{
+	padding-left: 25px;
+}
+.order_status{
+	padding-left:455px;
+	color:#00b7b2;
+}
+.ft{
+	font-size: 15px;
+}
+.order_num{
+	padding-left:50px;
+}
+.order_detail{
+    height:35px;
+    line-height: 45px;
+}
+.order_hr{
+	height:45px;
+	line-height: 45px;
+	border-bottom: 1px solid #d8d8d8;
+	width: 720px;
+	position: relative;
+	margin-left: 25px;
+}
+.eimg{
+	border-bottom: 1px solid #d8d8d8;
+}
+.detail{
+	height:700px;
+}
+.price{
+	color:#fc9580;
+}

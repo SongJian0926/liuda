@@ -1,0 +1,65 @@
+.pwd_body,.pwd_content{
+    width: 500px;
+    height: 420px;
+}
+.pwd_body{
+    padding: 75px 125px;
+    background-color: white;
+}
+.pwd_title{
+    width: 500px;
+    height: 40px;
+    border-bottom: 1px solid #d8d8d8;
+    background: url("../images/mybankcard.png") no-repeat 0px 6px;
+}
+.pwd_title p{
+    padding: 0px 80px;
+    font-size: 25px;
+    margin-top: 7px;
+}
+.pwd_from{
+    width: 500px;
+    height: 200px;
+    padding: 75px 50px;
+    overflow: hidden;
+
+}
+.pwd_from .pwd{
+    width: 400px;
+    height: 30px;
+   padding:15px 20px;;
+}
+.pwd_from .pwd label,input{
+    float: left;
+}
+.pwd_from .pwd label{
+ margin-right: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+.pwd_from  input{
+    width: 280px;
+    height: 25px;
+    margin-top: -3px;
+   border: 1px solid  #d8d8d8;
+}
+.p3{
+    padding-right: 15px;
+}
+.p4{
+    padding-right: -10px;
+}
+.ispwd{
+    margin-top: 40px;
+}
+.ispwd input{
+    margin-left: 70px;
+    border-radius: 4px;
+    height: 35px;
+    color: white;
+    background-color: #00b7b2;
+}
+.warn{
+	color:#FF0000;
+	font-size:15px;
+}

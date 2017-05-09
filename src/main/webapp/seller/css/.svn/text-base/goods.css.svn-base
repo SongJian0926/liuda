@@ -1,0 +1,144 @@
+.right_content .goods_mang{
+    height: 50px;
+    line-height: 50px;
+    padding: 18px 15px;
+    color: #00b9b4;
+    position: relative;
+}
+.goods_mang label{
+	display: block;
+	position: absolute;
+	right: 100px;
+	top: 25px;
+}
+.right_content .item{
+	width:180px;
+	height: 210px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+	background-color:  #f5f5f5;
+}
+.item .thumb{
+	height:43px;
+	padding-left:10px;
+	color:#5a5a5a;
+	width:27px;
+	text-align: right;
+}
+.item .thum{
+    height:43px;
+	line-height: 15px;
+	color:#5a5a5a;
+	padding-left:5px;
+}
+.search-bt{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	background:url('../images/add.png') no-repeat 25px #00b9b4;   
+    cursor:pointer;  
+    color: #fff;
+    border:0;
+    padding-left: 25px;
+    font-size: 15px;
+}
+.search-down{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	background:url('../images/xiajia.png') no-repeat 10px #00b9b4;   
+    cursor:pointer;  
+    color: #fff;
+    border:0px;
+    padding-left:25px;
+    font-size: 15px;
+}
+.search-up{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	background:url('../images/xiajia.png') no-repeat 10px #00b9b4;   
+    cursor:pointer;  
+    color: #fff;
+    border:0;
+    padding-left:25px;
+    font-size: 15px;
+}
+.search-xiajia{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	background-color:#00b9b4;   
+    cursor:pointer;  
+    color: #fff;
+    border: 1px solid #00b9b4;
+    font-size: 15px;
+}
+.search-shangjia-up{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	background-color:#00b9b4;   
+    cursor:pointer;  
+    color: #fff;
+    border:0;
+    font-size: 15px;
+}
+.search-quxiao{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	color:#00b9b4;  
+    cursor:pointer;  
+    border:1px #00b9b4 solid;
+    font-size: 15px;
+    background-color:#fff; 
+    margin-left:480px;
+}
+.search-quxiao-up{
+	height:30px;
+	width:100px;
+	line-height:30px; 
+	border-radius: 3px;
+	color:#00b9b4;  
+    cursor:pointer;  
+    border:1px #00b9b4 solid;
+    font-size: 15px;
+    background-color:#fff; 
+    margin-left:480px;
+}
+.agoPrice{
+	text-decoration: line-through;
+	color:#999999;
+	padding-left:10px;
+}
+.thum img{
+	padding-left: 28px;
+	vertical-align: middle;
+}
+.selectAll{
+	border:1px solid red;
+}
+.ht{
+	height:20px;
+	padding:2px;
+}
+.goods-bottom{
+	padding: 10px 0px;
+}
+.nogoods{
+    padding: 180px;
+    text-align: center;
+}
+.img{
+	cursor: pointer;
+}
+.show-list{
+	overflow: auto;
+}

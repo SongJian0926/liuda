@@ -1,0 +1,61 @@
+.search_startTime{
+	
+	width:220px;
+	padding-left:30px;
+	position:relative;
+	margin:23px 0px;
+}
+.search_endTime{
+	width:220px;
+	padding-left:30px;
+	position:relative;
+	margin:23px 0px;
+}
+.search_status{
+	height: 70px;
+	width:200px;
+	padding-left:30px;
+	line-height:80px;
+}
+.input-search{
+	height:25px;
+	width:105px;
+	border: 1px solid #eaeaea;
+	padding:0px 5px;
+	background:url('../images/calender.png') no-repeat 95px #f5f5f5; 
+}
+.input-searchl{
+	height:25px;
+	border: 1px solid #eaeaea;
+	width:70px;
+	background-color:#f5f5f5;
+}
+.right_content .search-but{
+	overflow: hidden;
+	padding-left:280px;
+	line-height:60px;
+}
+.right_content .search-bt{
+	width:150px;
+	line-height:30px; 
+	border-radius: 3px;
+	background:url('../images/search.png') no-repeat 55px #00b9b4;   
+    cursor:pointer;  
+    color: #fff;
+    border:0;
+    padding-left: 35px;
+
+}
+.table-border tr td{
+    vertical-align: middle;
+    text-align: center;
+    height:40px;
+}
+.table-border{
+	border-collapse:collapse;
+	
+}
+.nogoods{
+    padding: 180px;
+    text-align: center;
+}

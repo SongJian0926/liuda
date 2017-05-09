@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/projects/!svn/ver/20758/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity
+END
+XaCmsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/XaCmsResource.java
+END
+XaCmsUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/XaCmsUser.java
+END
+MailSenderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/projects/!svn/ver/20758/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/MailSenderInfo.java
+END
+MyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/projects/!svn/ver/20758/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/MyAuthenticator.java
+END
+XaCmsRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/XaCmsRole.java
+END
+XaCmsRoleResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/XaCmsRoleResource.java
+END
+BaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/BaseEntity.java
+END
+XaCmsUserRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/entity/XaCmsUserRole.java
+END

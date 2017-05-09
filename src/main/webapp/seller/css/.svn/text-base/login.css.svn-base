@@ -1,0 +1,117 @@
+@media only screen and (max-width:999px){
+	.login_box{
+		right: 8%;
+	}
+}
+@media only screen and (min-width:1000px) and (max-width:1099px){
+	.login_box{
+		right: 10%;
+	}
+}
+@media only screen and (min-width:1100px) and (max-width:1199px){
+	.login_box{
+		right: 11%;
+	}
+}
+@media only screen and (min-width:1200px){
+	.login_box{
+		right: 15%;
+	}
+}
+.login_header{
+	width: 100%;
+	height: 140px;
+	background: url('../images/liuda.png') no-repeat 320px center;
+	position: relative;
+}
+.login_header .welcome{
+	width: 100px;
+	position: absolute;
+	left: 460px;
+	top: 61px;
+	height: 18px;
+	line-height: 18px;
+	font-size: 18px;
+	padding-left: 15px;
+	border-left: 2px solid #999999;
+}
+.login_content{
+	width: 100%;
+	height: 380px;
+	background: url('../images/logo.png') no-repeat center top;
+	background-size: cover;
+	position: relative;
+}
+.login_box{
+	width: 300px;
+	background-color: #fff;
+	position: absolute;
+	top: 40px;
+	padding: 0 40px;
+}
+.login_text{
+	font-size: 20px;
+	color: #00b7b2;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0;
+	border-bottom: 2px solid #00b7b2;
+}
+.group{
+	overflow: hidden;
+	padding: 15px 5px;
+}
+.group .lb{
+	width: 20%;
+	height: 36px;
+	line-height: 36px;
+	font-size: 15px;
+	color: #7d7d7d;
+}
+.group .col-cms{
+	width: 80%;
+}
+.group .col-cms input{
+	width: 95%;
+	height: 30px;
+	padding-left: 10px;
+	border: 1px solid #d8d8d8;
+}
+.pdding_bj{
+	padding-top: 0; 
+}
+.margin-bt{
+	margin-top: 15px;
+}
+.group .dis{
+	display: block;
+}
+.group input[type='button']{
+	width: 80%;
+	height: 35px;
+	font-size: 16px;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	border: none;
+	background-color: #00b7b2;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.forget_pwd{
+	display: block;
+	width: 100%;
+	text-align: center;
+	color: #7d7d7d;
+	margin-bottom: 15px;
+}
+.group .col-cms .code_w{
+	width: 50%;
+}
+.group .col-cms .getcode_w{
+	width: 40%;
+	font-size: 14px;
+}

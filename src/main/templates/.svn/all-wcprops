@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates
+END
+ModelController.vm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ModelController.vm
+END
+ModelRepository.vm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ModelRepository.vm
+END
+TestModelController.vm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/TestModelController.vm
+END
+modelEdit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/modelEdit.vm
+END
+util.vm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/util.vm
+END
+ModelVo.vm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ModelVo.vm
+END
+TestModelService.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/TestModelService.vm
+END
+ModelService.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ModelService.vm
+END
+ModelServiceImpl.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ModelServiceImpl.vm
+END
+ApiModelController.vm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ApiModelController.vm
+END
+Model.vm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/Model.vm
+END
+ModelList.vm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ModelList.vm
+END
+ApiModelServiceImpl.vm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ApiModelServiceImpl.vm
+END
+ApiModelService.vm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/templates/ApiModelService.vm
+END

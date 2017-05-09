@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="liudaMaster"
+  id="myeclipse.1434429034357"
+  context-root="/liudaMaster"
+  j2ee-spec="5.0"
+  archive="liudaMaster.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

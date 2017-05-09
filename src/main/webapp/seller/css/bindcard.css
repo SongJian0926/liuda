@@ -1,0 +1,75 @@
+.bind_content,.bind_cont{
+    width: 550px;
+    height: 400px;
+}
+.bind_content{
+    padding: 100px;
+    background-color: #fff;
+}
+.title{
+    height: 34px;
+    border-bottom: 1px solid #d8d8d8;
+    overflow: hidden;
+}
+.title img{
+    float: left;
+}
+.title span{
+   font-size: 18px;
+    margin-left: 20px;
+    display: block;
+    float: left;
+}
+.box-content{
+    width: 520px;
+    height: 265px;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 52px;
+    padding-bottom: 50px;
+}
+form{
+    width: 400px;
+}
+.bind_name{
+	width:510px;
+    overflow: hidden;
+    padding: 10px 0px;
+}
+.bind_name label,input{
+    float: left;
+}
+.bind_name input{
+    margin-left: 43px;
+    width: 300px;
+    height: 20px;
+    border: 1px solid #d8d8d8;
+}
+.ok{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 200px;
+    height: 35px;
+    border: none;
+    color: #fff;
+    background-color: #00b7b2;
+    border-radius: 4px;
+}
+#bind_name{
+    margin-left: 44px;
+}
+.bind_name .p4{
+    margin-left: 16px;
+}
+.select{
+    overflow: hidden;
+}
+.select label{
+    float: left;
+    margin-right: 56px;
+    margin-bottom: 18px;
+}
+.warn{
+	color:#FF0000;
+	font-size:15px;
+}

@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/projects/!svn/ver/23961/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity
+END
+Province.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Province.java
+END
+ClubMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/18998/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/ClubMember.java
+END
+FondRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/20640/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/FondRecord.java
+END
+PrizeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/19778/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/PrizeResult.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Area.java
+END
+GuessOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/21569/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/GuessOption.java
+END
+Banner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Banner.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/20640/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/User.java
+END
+Vote.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/19325/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Vote.java
+END
+Collect.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/19235/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Collect.java
+END
+MatchOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/22303/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MatchOrder.java
+END
+RulesDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/projects/!svn/ver/19379/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/RulesDesc.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/10089/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Message.java
+END
+EventMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/EventMsg.java
+END
+VersionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/VersionInfo.java
+END
+CashRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/16693/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/CashRecord.java
+END
+GuideComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/GuideComment.java
+END
+Macth.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/projects/!svn/ver/22343/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Macth.java
+END
+OrderDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/16458/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/OrderDetail.java
+END
+VoteOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/VoteOption.java
+END
+Standard.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/12523/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Standard.java
+END
+MatchOrderTemp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/projects/!svn/ver/20331/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MatchOrderTemp.java
+END
+UserCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/19657/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/UserCard.java
+END
+MatchComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MatchComment.java
+END
+Notice.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/projects/!svn/ver/23810/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Notice.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/16743/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Dictionary.java
+END
+History.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/projects/!svn/ver/9491/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/History.java
+END
+EventReview.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/EventReview.java
+END
+BusinessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/13911/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/BusinessInfo.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/projects/!svn/ver/22001/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Order.java
+END
+GuessLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/GuessLog.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/City.java
+END
+Agreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/projects/!svn/ver/19368/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Agreement.java
+END
+Withdraw.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/19632/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Withdraw.java
+END
+DictItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/23961/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/DictItem.java
+END
+MyBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/projects/!svn/ver/16661/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MyBank.java
+END
+Tickets.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/10989/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Tickets.java
+END
+ShopRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/10989/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/ShopRecord.java
+END
+PrizeOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/PrizeOption.java
+END
+FeedBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/10089/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/FeedBack.java
+END
+ClubEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/projects/!svn/ver/19693/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/ClubEvent.java
+END
+Fans.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Fans.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/22563/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Comment.java
+END
+ShopCar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/10989/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/ShopCar.java
+END
+GuideTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/GuideTag.java
+END
+Guide.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Guide.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/projects/!svn/ver/9491/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Room.java
+END
+MatchOrderDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/projects/!svn/ver/22373/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MatchOrderDetail.java
+END
+VoteLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/19257/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/VoteLog.java
+END
+Images.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/projects/!svn/ver/16461/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Images.java
+END
+MessageRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/projects/!svn/ver/20190/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MessageRecord.java
+END
+Guess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Guess.java
+END
+Shop.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/16711/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Shop.java
+END
+RefundOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/22303/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/RefundOrder.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Dict.java
+END
+GuideAppend.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/projects/!svn/ver/18583/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/GuideAppend.java
+END
+Club.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/projects/!svn/ver/22058/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Club.java
+END
+ReplyComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/15573/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/ReplyComment.java
+END
+Hotel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/projects/!svn/ver/11373/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Hotel.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/10989/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Address.java
+END
+Tourist.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/projects/!svn/ver/11373/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/Tourist.java
+END
+MatchLive.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/projects/!svn/ver/22058/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/entity/MatchLive.java
+END

@@ -1,0 +1,37 @@
+10
+
+dir
+24253
+https://115.29.111.103/svn/projects/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote
+https://115.29.111.103/svn/projects
+
+
+
+2016-06-30T07:34:51.155145Z
+24145
+changlu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+18021700-acbe-a241-bcd7-bb5e0a929291
+
+controller
+dir
+
+service
+dir
+
+vo
+dir
+

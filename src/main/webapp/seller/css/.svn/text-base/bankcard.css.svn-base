@@ -1,0 +1,38 @@
+.right_content{
+	background:#fff;
+	-webkit-box-sizing:border-box;
+}
+.box-content {
+    padding:113px 107px;
+    }
+.box-content span {
+    display:inline-block;
+    width:100px;
+    margin-top: 0px;
+}
+.box-content button{
+    width: 200px;
+    height: 30px;
+    margin-top: 100px;
+    background-color: #00B6B2;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+.title{
+	margin-left:100px;
+	margin-top:50px;
+    position: absolute;
+    height: 43px;
+    width: 500px;
+    border-bottom: 1px solid #d8d8d8;
+}
+.title > img {
+    margin-top: 10px;
+}
+.title_font {
+    font-size: 18px;
+    position: relative;
+    top: -16px;
+    left: 10px;
+}

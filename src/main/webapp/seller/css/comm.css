@@ -1,0 +1,40 @@
+.font-sty{
+	font-family: "Microsoft YaHei"; 
+	font-size: 14px;
+}
+.font-sty-color{
+	font-family: "Microsoft YaHei"; 
+	font-size: 16px;
+	color: #ffffff;
+}
+.ul-sty{
+	-webkit-padding-start: 0px;
+	-webkit-margin-before: 0em;
+	-webkit-margin-after: 0em;
+	-moz-padding-start: 0px;
+	-moz-margin-before: 0em;
+	-moz-margin-after: 0em;
+    -ms-padding-start: 0px;
+    -ms-margin-before: 0em;
+    -ms-margin-after: 0em;
+    -o-padding-start: 0px; 
+    -o-margin-before: 0em;
+    -o-margin-after: 0em;
+}
+.cal{
+	background: url('../images/calender.png') no-repeat 95px center #ffffff;
+}
+.input-tx{
+	height: 25px;
+	width:110px;
+	border: 1px solid #d8d8d8;
+	padding: 0 5px;
+}
+.search{
+	height:60px;
+	background-color: #eeeeee; 
+}
+.search-menu{
+	height:30px;
+	padding:15px 0px 0px 0px;
+}

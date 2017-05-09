@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projects/!svn/ver/24145/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl
+END
+ApiUserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/21888/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiUserServiceImpl.java
+END
+ApiClubEventServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/projects/!svn/ver/23963/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiClubEventServiceImpl.java
+END
+ApiMatchServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/22469/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMatchServiceImpl.java
+END
+ApiWxPayServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/12112/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiWxPayServiceImpl.java
+END
+ApiMessageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/20575/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMessageServiceImpl.java
+END
+ApiAgreementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/projects/!svn/ver/19368/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiAgreementServiceImpl.java
+END
+ApiNoticeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/23810/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiNoticeServiceImpl.java
+END
+ApiOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/23504/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiOrderServiceImpl.java
+END
+ApiMatchCommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/21359/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMatchCommentServiceImpl.java
+END
+ApiRoomServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/22858/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiRoomServiceImpl.java
+END
+ApiMatchLiveServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/projects/!svn/ver/19608/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMatchLiveServiceImpl.java
+END
+ApiEventReviewServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/projects/!svn/ver/20575/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiEventReviewServiceImpl.java
+END
+ApiIndexServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/23638/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiIndexServiceImpl.java
+END
+ApiHistoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/24145/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiHistoryServiceImpl.java
+END
+ApiGuessServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/22135/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiGuessServiceImpl.java
+END
+ApiFeedBackServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/10311/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiFeedBackServiceImpl.java
+END
+ApiVoteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/22955/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiVoteServiceImpl.java
+END
+ApiCommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/23810/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiCommentServiceImpl.java
+END
+ApiBannerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiBannerServiceImpl.java
+END
+ApiFondRecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/19772/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiFondRecordServiceImpl.java
+END
+ApiClubMemberServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/22162/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiClubMemberServiceImpl.java
+END
+ApiVersionInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiVersionInfoServiceImpl.java
+END
+ApiTicketsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/22702/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiTicketsServiceImpl.java
+END
+ApiClubServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/24052/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiClubServiceImpl.java
+END
+ApiCollectServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/19705/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiCollectServiceImpl.java
+END
+ApiShopServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/23530/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiShopServiceImpl.java
+END
+ApiDictServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/22699/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiDictServiceImpl.java
+END
+ApiMatchOrderDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/projects/!svn/ver/23917/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMatchOrderDetailServiceImpl.java
+END
+ApiUserCardServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/19835/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiUserCardServiceImpl.java
+END
+ApiMatchOrderTempServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/projects/!svn/ver/22858/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMatchOrderTempServiceImpl.java
+END
+ApiTouristServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/23530/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiTouristServiceImpl.java
+END
+ApiVoteOptionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/19151/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiVoteOptionServiceImpl.java
+END
+ApiFansServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/22162/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiFansServiceImpl.java
+END
+ApiAddressServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/16618/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiAddressServiceImpl.java
+END
+ApiHotelServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/23530/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiHotelServiceImpl.java
+END
+ApiRefundOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/projects/!svn/ver/22315/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiRefundOrderServiceImpl.java
+END
+ApiGuideCommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/20761/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiGuideCommentServiceImpl.java
+END
+ApiVoteLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/19151/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiVoteLogServiceImpl.java
+END
+ApiEventMsgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/20880/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiEventMsgServiceImpl.java
+END
+ApiGuideServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/22699/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiGuideServiceImpl.java
+END
+ApiMatchOrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/23411/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiMatchOrderServiceImpl.java
+END
+ApiShopCarServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/22955/Tongyansheji/java/liuda/src/main/java/com/web/liuda/remote/service/impl/ApiShopCarServiceImpl.java
+END

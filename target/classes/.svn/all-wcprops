@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/projects/!svn/ver/23568/Tongyansheji/java/liuda/target/classes
+END
+spring-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/projects/!svn/ver/10970/Tongyansheji/java/liuda/target/classes/spring-mvc.xml
+END
+email.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/20786/Tongyansheji/java/liuda/target/classes/email.properties
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/19247/Tongyansheji/java/liuda/target/classes/database.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/10970/Tongyansheji/java/liuda/target/classes/log4j.properties
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/projects/!svn/ver/10970/Tongyansheji/java/liuda/target/classes/applicationContext-security.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/23568/Tongyansheji/java/liuda/target/classes/applicationContext.xml
+END
+init_background.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/10970/Tongyansheji/java/liuda/target/classes/init_background.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/exception
+END
+BusinessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/exception/BusinessException.java
+END
+BaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/exception/BaseException.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/exception/ValidationException.java
+END
+DatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/9759/Tongyansheji/java/liuda/src/main/java/com/web/webstart/base/exception/DatabaseException.java
+END

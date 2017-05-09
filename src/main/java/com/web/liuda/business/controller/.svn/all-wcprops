@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projects/!svn/ver/23762/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller
+END
+AddressController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/10298/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/AddressController.java
+END
+HotelController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/23762/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/HotelController.java
+END
+TouristController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/23762/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/TouristController.java
+END
+MatchLiveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/22020/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MatchLiveController.java
+END
+ProvinceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/20430/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ProvinceController.java
+END
+ClubMemberController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/21980/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ClubMemberController.java
+END
+FondRecordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/20640/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/FondRecordController.java
+END
+PrizeResultController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/PrizeResultController.java
+END
+AreaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/20430/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/AreaController.java
+END
+BannerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/14988/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/BannerController.java
+END
+GuessOptionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuessOptionController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/21907/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/UserController.java
+END
+VoteController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/21619/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/VoteController.java
+END
+MatchOrderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/22373/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MatchOrderController.java
+END
+RulesDescController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/RulesDescController.java
+END
+EventMsgController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/EventMsgController.java
+END
+MessageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/10089/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MessageController.java
+END
+CashRecordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/23762/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/CashRecordController.java
+END
+MacthController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/22142/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MacthController.java
+END
+GuideCommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuideCommentController.java
+END
+VoteOptionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/VoteOptionController.java
+END
+MatchOrderTempController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MatchOrderTempController.java
+END
+StandardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/11594/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/StandardController.java
+END
+UserCardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/19658/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/UserCardController.java
+END
+MatchCommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MatchCommentController.java
+END
+NoticeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/22266/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/NoticeController.java
+END
+DictionaryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/16743/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/DictionaryController.java
+END
+HistoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/HistoryController.java
+END
+EventReviewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/EventReviewController.java
+END
+BusinessInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/23762/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/BusinessInfoController.java
+END
+OrderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/22031/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/OrderController.java
+END
+GuessLogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuessLogController.java
+END
+CityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/20430/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/CityController.java
+END
+AgreementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/19318/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/AgreementController.java
+END
+WithdrawController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/WithdrawController.java
+END
+DictItemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/21302/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/DictItemController.java
+END
+MyBankController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/projects/!svn/ver/16681/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MyBankController.java
+END
+TicketsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/15948/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/TicketsController.java
+END
+ShopRecordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/projects/!svn/ver/11594/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ShopRecordController.java
+END
+PrizeOptionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/22045/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/PrizeOptionController.java
+END
+FeedBackController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/10089/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/FeedBackController.java
+END
+ClubEventController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/21938/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ClubEventController.java
+END
+FansController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/FansController.java
+END
+CommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/11888/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/CommentController.java
+END
+GuideTagController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuideTagController.java
+END
+ShopCarController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/11594/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ShopCarController.java
+END
+GuideController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/23365/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuideController.java
+END
+RoomController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/15948/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/RoomController.java
+END
+MatchOrderDetailController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/23718/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MatchOrderDetailController.java
+END
+VoteLogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/VoteLogController.java
+END
+ImagesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/9486/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ImagesController.java
+END
+MessageRecordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/projects/!svn/ver/20190/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/MessageRecordController.java
+END
+GuessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/projects/!svn/ver/21688/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuessController.java
+END
+RefundOrderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/22315/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/RefundOrderController.java
+END
+GuideAppendController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/18585/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/GuideAppendController.java
+END
+ClubController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/22210/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ClubController.java
+END
+ShopController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/12523/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ShopController.java
+END
+DictController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/20415/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/DictController.java
+END
+ReplyCommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/15940/Tongyansheji/java/liuda/src/main/java/com/web/liuda/business/controller/ReplyCommentController.java
+END

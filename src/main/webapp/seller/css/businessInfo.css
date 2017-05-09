@@ -1,0 +1,144 @@
+.right_content .info{
+	margin: 32px;
+}
+.right_content .info_Detail{
+	padding-left: 40px;
+}
+.edit-bt{
+	height:32px;
+	width:82px;
+	line-height:32px;
+	background:url('../images/pen.png') no-repeat 15px #00b9b4;
+	cursor:pointer;
+	border:0;
+	color:#c5e9e8;
+	padding-left: 25px;
+}
+.ht{
+	height:32px;
+}
+.info_Detail div{
+	line-height: 25px;
+	margin: 10px 0;
+}
+.info_Detail div img{
+	vertical-align:top;
+	margin-left: 12px;
+}
+.info_Detail .edit{
+	padding-left: 50px;
+}
+.info_Detail textarea{
+	vertical-align:top;
+}
+.edit-show{
+	margin-left: 40px;
+	height:25px;
+	width:342px;
+}
+.edit-intro{
+	width:340px;
+	margin-left: 40px;
+}
+.info_Detail a{
+	text-decoration: none;
+}
+.info_Detail .edit-time{
+	margin-left: 12px;
+}
+.fe{
+	padding-left: 450px;
+	height: 30px;
+	line-height: 30px;
+}
+.search-bt{
+	height:30px;
+	width:220px;
+	line-height:30px;
+	border-radius: 3px;
+	cursor:pointer;
+	/* outline: none;*/
+	color: #fff;
+	border:0;
+	background-color: #00b9b4;
+	margin-left:160px;
+}
+.edit-phone{
+	margin-left: 80px;
+    margin-right: 80px;
+	margin-top:100px;
+	margin-bottom: 90px;
+}
+.ep{
+	padding-left: 15px;
+	font-size: 20px;
+	border-bottom: 1px solid #d8d8d8;
+	width:500px;
+}
+.eimg{
+	border-bottom: 1px solid #00b9b4;
+}
+.edit_detail_tel{
+	padding-top: 100px;
+	padding-left:100px;
+}
+.edit_detail_tel tr td{
+	height:50px;
+}
+.tr-width{
+	width:250px;
+}
+.bt-yan{
+	width:80px;
+	background-color:#00b9b4;
+	color: #fff;
+	height: 25px;
+	border: 0px;
+}
+.search-but{
+	height:58px;
+	overflow: hidden;
+	line-height:60px;
+}
+.img{
+	height: 73px;
+    width: 73px;
+}
+.li-img1{
+	float: left;
+	margin-left: 70px;
+}
+.font-s{
+	display: block;
+    width: 80px;
+    margin-right: 3px;
+}
+.li-img{
+	margin-right: 20px;
+	position: relative;
+    margin-top: -14px;
+}
+.moeven{
+	margin-left: 153px;
+}
+.moeven span{
+	color:  #00b7b2;
+}
+#a-qx{
+	margin-left: 140px;
+}
+.left-box{
+	    position: absolute;
+}
+.checklogo{
+	height: 1px;
+}
+.warn{
+	color:#FF0000;
+	font-size:15px;
+}
+.mobile-show{
+	margin-left: 13px;
+    height: 25px;
+    width: 342px;
+}
